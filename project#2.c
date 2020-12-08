@@ -1,4 +1,9 @@
+
 /*
+Isaac Myers
+2020/11/12 - 2020/11/27
+Version 1.2
+
 An electrical components company offers discounts on various components ordered in quantity.  
 Write a program to display the data in the table below as a table, prompt the user for and read in the quantity, component number and unit cost
 display the original price and discount offered along with the total discounted price.
